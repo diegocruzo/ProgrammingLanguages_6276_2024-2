@@ -1,0 +1,11 @@
+Nombre: Ana
+Edad: 30
+Ciudad: Medellín
+
+Nombre: Luis
+Edad: 25
+Ciudad: Cartagena
+
+Nombre: Martha
+Edad: 28
+Ciudad: Manizales
